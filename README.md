@@ -9,10 +9,10 @@ This repository contains my LeetCode practice solutions.
   - Code
   - Time & Space complexity
 
-## Problems
+<!-- ## Problems
 | # | Title | Difficulty | Pattern |
 |---|-------|------------|---------|
-| 146 | [LRU Cache](ood/146_lru_cache.py) ([LC](https://leetcode.com/problems/lru-cache/)) | Medium | Design|
+| 146 | [LRU Cache](ood/146_lru_cache.py) ([LC](https://leetcode.com/problems/lru-cache/)) | Medium | Design| -->
 
 ## Progress
 - Total solved: 50+
